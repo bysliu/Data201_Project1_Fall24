@@ -5,7 +5,7 @@ Data 201 Group Project 1 using Google Colab
 Team members: 
 Aminata Diatta, Annet Isa, Betty Liu, Joshua Shleifer.
 
-Upload data to session storag with name:
+Upload data to session storage with name:
 Crash_Reporting_-_Incidents_Data_20241024.csv
 
 
